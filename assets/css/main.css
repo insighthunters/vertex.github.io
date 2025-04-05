@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.iframe-powerbi{
+	height: 450px;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -1645,6 +1650,11 @@ input, select, textarea {
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
+				max-width: 350px;
+			}
+
+			.iframe-powerbi{
+				height: 250px;
 			}
 
 		}
