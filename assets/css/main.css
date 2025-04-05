@@ -76,6 +76,10 @@ input, select, textarea {
 	height: 450px;
 }
 
+#elements.active h2.major{
+	width: 100%;
+}
+
 
 /* Basic */
 
